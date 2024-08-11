@@ -21,6 +21,9 @@ the output curve can be in the form of cubic Bezier instead of polylines. The pr
 challenge is divided in the following sections.
 
 1 Regularize Curves
+
 2 Exploring Symmetry in Curves
+
 3 Completing Incomplete Curves
+
 4 Attachment
